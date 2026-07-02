@@ -201,4 +201,4 @@ analise-acessibilidade-streaming/
 Profissional do setor audiovisual com experiência em acessibilidade para cinema, televisão e plataformas de streaming, aliando conhecimentos em análise de dados para desenvolver soluções baseadas em dados e apoiar discussões sobre inclusão no entretenimento digital.
 
 * GitHub: https://github.com/alonsomara
-* LinkedIn: *(Inserir link)*
+* LinkedIn: https://www.linkedin.com/in/alonsomara/
