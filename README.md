@@ -170,30 +170,6 @@ Durante o desenvolvimento deste projeto foi possível aplicar e consolidar conhe
 
 ---
 
-# 📁 Estrutura do projeto
-
-```text
-analise-acessibilidade-streaming/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│
-├── dashboard/
-│
-├── docs/
-│
-├── images/
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
-
 # 👩‍💻 Sobre a autora
 
 **Mara Alonso**
